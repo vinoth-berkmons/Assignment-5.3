@@ -10,4 +10,4 @@ var employee = {
     }
 };
 
-console.log(employee.name + " , " + employee.age + " , " + employee.salary + " , " + employee.address.city + " , " + employee.address.state + " , " + employee.address.zip_code);
+console.log("Employee name is:" employee.name + " , " + "Employee age is:" employee.age + " , " + "Employee salary is:" employee.salary + " , " + "Employee city is:" employee.address.city + " , " + "Employee State is:" employee.address.state + " , " + "Employee Zip code is:" employee.address.zip_code);
